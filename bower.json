@@ -1,0 +1,17 @@
+{
+  "name": "Gulp Frontend Project",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Insayt/frontend-devil",
+  "authors": [
+    "Dmytro Trofimenko <trofuk@gmail.com>"
+  ],
+  "description": "Boilerplate for html+js+css apps",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
